@@ -1,6 +1,6 @@
 Simple Todo React app, uses localstorage to store the TODOS.
 
-Try it out :
+Try it out : https://astounding-dieffenbachia-ca948e.netlify.app/
 
 Features are which allow you to :
 
